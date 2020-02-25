@@ -4,4 +4,5 @@ Projeto para execução de algums features de demonstração e Validação no Or
 
 ### Features:
 
-1. How to Set Custom Environment Variables: https://medium.com/how-to-set-custom-environment-variables-on-oracle
+1. How to Set Custom Environment Variables: 
+https://medium.com/@pricardoti/how-to-set-custom-environment-variables-on-oracle-weblogic-server-7f93572dc660
